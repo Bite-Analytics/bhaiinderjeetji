@@ -1,7 +1,7 @@
 title: "Bhai Inderjeet Singh Ji"
 description: "A life worth sharing and celebrating"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-feed
