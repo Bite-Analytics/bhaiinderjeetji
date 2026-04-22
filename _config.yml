@@ -1,8 +1,11 @@
-title: "Bhai Inderjeet Singh Ji"
-description: "A life worth sharing and celebrating"
+title: "Dad’s Name"
+description: "A life worth sharing"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
+
+markdown: kramdown
