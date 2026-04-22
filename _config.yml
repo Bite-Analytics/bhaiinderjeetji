@@ -1,0 +1,8 @@
+title: "Bhai Inderjeet Singh Ji"
+description: "A life worth sharing and celebrating"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
