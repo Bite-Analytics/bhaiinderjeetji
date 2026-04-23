@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome"
+-- title: "Welcome"
 ---
 
 # Bhai Inderjeet Singh Ji (Derby Wale)
@@ -17,6 +17,14 @@ It brings together memories, moments, and milestones that reflect his experience
 
 Bhai Inderjeet Singh Ji has dedicated his life to the service of Gurbani Kirtan and Gurmat Sangeet.  
 Through decades of seva, he has inspired generations within the Sikh community.
+
+🎥 Watch our latest video below 👇
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/watch?v=X3nIB8Nxgvk&t=541s"  
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
 Born and raised with deep spiritual values, Bhai Inderjeet Singh Ji’s journey has been rooted in Gurbani, humility, and seva.
 
