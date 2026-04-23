@@ -1,9 +1,10 @@
 ---
 layout: home
 author_profile: true
+title: "🙏 Welcome"
+excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Singh Ji."
 ---
-
-## 🙏 Welcome
+``
 
 > **ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ**  
 >  
