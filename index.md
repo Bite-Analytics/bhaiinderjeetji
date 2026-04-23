@@ -2,9 +2,6 @@
 layout: home
 -- title: "Welcome"
 ---
-
-*A Life of Kirtan, Seva, and Devotion*
-
 ---
 
 ## Welcome
