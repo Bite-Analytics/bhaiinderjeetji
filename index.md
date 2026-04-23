@@ -3,10 +3,13 @@ layout: home
 author_profile: true
 ---
 
-**ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ**
+## 🙏 Welcome
 
-Welcome to this website of **Bhai Inderjeet Singh Ji** —  
-a space created to honour his life of seva, kirtan, and humility.
+> **ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ**  
+>  
+> This website is a tribute to the life, journey, and seva of  
+> **Bhai Inderjeet Singh Ji**, dedicated to preserving his legacy  
+> for future generations.
 
 This website is dedicated to celebrating the life, journey, and story of **Bhai Inderjeet Singh Ji**.
 
