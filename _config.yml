@@ -11,6 +11,8 @@ markdown: kramdown
 
 minimal_mistakes_skin: default
 
+masthead_title: ""
+
 author:
   name: "Bhai Inderjeet Singh Ji"
   avatar: "/images/Dad_Pic.jpg"
