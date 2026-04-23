@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Life & Journey"
+permalink: /life-journey/
 ---
 
 # Life & Journey of Bhai Inderjeet Singh Ji
