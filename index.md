@@ -9,8 +9,8 @@ excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Sin
   🙏
 </div>
 
- **Welcome**  
-  
+ **Welcome** 
+   
  This website dedicatede to the life, journey, and seva of  
  **Bhai Inderjeet Singh Ji**, dedicated to preserving his legacy  
  for future generations.
