@@ -9,3 +9,7 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+
+minimal_mistakes_skin: default
+
+search: true
