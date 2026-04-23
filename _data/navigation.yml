@@ -1,0 +1,6 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Life & Journey"
+    url: /life-journey/
