@@ -17,4 +17,10 @@ author:
   avatar: "/assets/images/dad_Pic.jpg"
   bio: "A Life of Kirtan, Seva, and Devotion"
 
+defaults:
+- scope:
+    path: ""
+  values:
+    author_profile: true
+
 search: true
