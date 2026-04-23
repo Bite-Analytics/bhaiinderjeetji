@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Life & Journey"
 permalink: /life-journey/
 ---
