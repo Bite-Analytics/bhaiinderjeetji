@@ -1,10 +1,9 @@
 ---
 layout: home
 -- title: "Welcome"
+author_profile: true
 ---
----
-
-## Welcome
+# Welcome
 
 This website is dedicated to celebrating the life, journey, and story of **Bhai Inderjeet Singh Ji**.
 
