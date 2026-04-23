@@ -4,6 +4,10 @@ author_profile: true
 title: "ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ"
 excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Singh Ji."
 ---
+<div style="position:absolute; top:1rem; left:1rem; font-size:0.85rem; opacity:0.7;">
+  ੴ
+</div>
+
 <div style="text-align:left; font-size: 2.2rem; margin-bottom: 0.5rem;">
 🙏
 </div>
