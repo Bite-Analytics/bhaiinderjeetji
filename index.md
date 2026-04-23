@@ -3,8 +3,6 @@ layout: home
 -- title: "Welcome"
 ---
 
---# Bhai Inderjeet Singh Ji (Derby Wale)
-
 *A Life of Kirtan, Seva, and Devotion*
 
 ---
