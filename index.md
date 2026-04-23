@@ -18,6 +18,12 @@ It brings together memories, moments, and milestones that reflect his experience
 Bhai Inderjeet Singh Ji has dedicated his life to the service of Gurbani Kirtan and Gurmat Sangeet.  
 Through decades of seva, he has inspired generations within the Sikh community.
 
+Born and raised with deep spiritual values, Bhai Inderjeet Singh Ji’s journey has been rooted in Gurbani, humility, and seva.
+
+From an early age, he developed a natural connection to Kirtan and Gurmat Sangeet, which became the foundation of his life’s path.
+
+This space is a reflection of that journey — not just as a musician, but as a father, teacher, and servant of the Guru’s message.
+
 ---
 
 ## 📸 Moments
@@ -27,6 +33,13 @@ Through decades of seva, he has inspired generations within the Sikh community.
 ![Dad Image 2](/assets/images/dad2.jpg)
 
 ---
+## 🌿 Life & Journey
+
+Bhai Inderjeet Singh Ji has spent decades dedicated to Kirtan Seva across Gurdwaras and Sikh gatherings in the UK and abroad.
+
+His contribution is not measured only in years, but in the countless sangat members who have been touched by his voice and presence.
+
+Whether through early morning Asa-di-Vaar or evening Kirtan Darbars, his focus has always remained on connecting people to Gurbani.
 
 ## About This Site
 
