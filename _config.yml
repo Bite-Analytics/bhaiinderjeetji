@@ -12,4 +12,9 @@ markdown: kramdown
 
 minimal_mistakes_skin: default
 
+author:
+  name: "Bhai Inderjeet Singh Ji"
+  avatar: "/assets/images/dad_Pic.jpg"
+  bio: "A Life of Kirtan, Seva, and Devotion"
+
 search: true
