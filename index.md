@@ -21,7 +21,7 @@ Through decades of seva, he has inspired generations within the Sikh community.
 🎥 Watch our latest video below 👇
 
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/watch?v=X3nIB8Nxgvk&t=541s"  
+  src="https://www.youtube.com/embed/X3nIB8Nxgvk"  
   frameborder="0" 
   allowfullscreen>
 </iframe>
