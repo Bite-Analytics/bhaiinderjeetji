@@ -1,4 +1,4 @@
-title: "Dad’s Name"
+# title: "Dad’s Name"
 description: "A life worth sharing"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -14,7 +14,7 @@ minimal_mistakes_skin: default
 
 author:
   name: "Bhai Inderjeet Singh Ji"
-  avatar: "/assets/images/dad_Pic.jpg"
+  avatar: "/assets/images/Dad_Pic.jpg"
   bio: "A Life of Kirtan, Seva, and Devotion"
 
 defaults:
