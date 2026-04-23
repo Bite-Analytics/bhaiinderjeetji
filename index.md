@@ -1,11 +1,15 @@
 ---
 layout: home
 author_profile: true
-title: "ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ"
+title: "ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ ।<br>ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ"
 excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Singh Ji."
 ---
+<div style="text-align:center; font-size: 2.2rem; margin-bottom: 0.5rem;">
+  🙏
+</div>
 
 **Welcome** 
+
    
 This website dedicatede to the life, journey, and seva of  
 **Bhai Inderjeet Singh Ji**, dedicated to preserving his legacy  
