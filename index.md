@@ -4,13 +4,12 @@ author_profile: true
 title: "🙏 Welcome"
 excerpt: "This website honours the life, journey, and seva of Bhai Inderjeet Singh Ji."
 ---
-``
 
-> **ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ**  
->  
-> This website is a tribute to the life, journey, and seva of  
-> **Bhai Inderjeet Singh Ji**, dedicated to preserving his legacy  
-> for future generations.
+ **ਵਾਹਿਗੁਰੂ ਜੀ ਕਾ ਖਾਲਸਾ । ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ**  
+  
+ This website is a tribute to the life, journey, and seva of  
+ **Bhai Inderjeet Singh Ji**, dedicated to preserving his legacy  
+ for future generations.
 
 This website is dedicated to celebrating the life, journey, and story of **Bhai Inderjeet Singh Ji**.
 
