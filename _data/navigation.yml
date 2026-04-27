@@ -8,7 +8,7 @@ main:
   - title: "YouTube"
     url: "https://www.youtube.com/@ISRAGI"
 
-    life-journey:
+life-journey:
   - title: "Chapter 1 — Origins in Faith"
     url: /life-journey/#chapter-1--origins-in-faith-19341947
   - title: "Chapter 2 — Awakening to Music"
@@ -25,4 +25,3 @@ main:
     url: /life-journey/#chapter-7--family-reflections
   - title: "Chapter 8 — Legacy of a Seeker"
     url: /life-journey/#chapter-8--legacy-of-a-seeker
-
